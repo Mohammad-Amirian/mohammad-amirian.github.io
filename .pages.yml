@@ -1,0 +1,180 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+content:
+- name: website
+  label: Website content
+  type: file
+  path: content/site.json
+  format: json
+  fields:
+  - name: meta
+    label: Meta
+    type: object
+    fields:
+    - name: title
+      label: Title
+      type: string
+    - name: description
+      label: Description
+      type: text
+  - name: heroImage
+    label: Heroimage
+    type: image
+  - name: heroAlt
+    label: Hero Description
+    type: text
+  - name: cvUrl
+    label: Cv Url
+    type: file
+  - name: publications
+    label: Publications
+    type: object
+    fields:
+    - name: id
+      label: Id
+      type: string
+      description: Unique short identifier; use letters, digits and hyphens.
+    - name: year
+      label: Year
+      type: string
+    - name: title
+      label: Title
+      type: string
+    - name: authors
+      label: Authors
+      type: text
+    - name: venue
+      label: Venue
+      type: string
+    - name: status
+      label: Status
+      type: select
+      options:
+        values:
+        - published
+        - accepted
+        - review
+        - preprint
+        - preparation
+    - name: selected
+      label: Selected
+      type: boolean
+    - name: primaryUrl
+      label: Primary Url
+      type: string
+    - name: links
+      label: Links
+      type: object
+      fields:
+      - name: label
+        label: Label
+        type: string
+      - name: url
+        label: Url
+        type: string
+      list:
+        collapsible:
+          collapsed: true
+          summary: '{label}'
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+  - name: gallery
+    label: Gallery
+    type: object
+    fields:
+    - name: id
+      label: Id
+      type: string
+    - name: datetime
+      label: Datetime
+      type: string
+    - name: date
+      label: Date
+      type: string
+    - name: title
+      label: Title
+      type: string
+    - name: location
+      label: Location
+      type: string
+    - name: description
+      label: Description
+      type: text
+    - name: url
+      label: Url
+      type: string
+    - name: link_label
+      label: Link Label
+      type: string
+    - name: credit
+      label: Credit
+      type: string
+    - name: photos
+      label: Photos
+      type: object
+      fields:
+      - name: src
+        label: Src
+        type: image
+      - name: alt
+        label: Alt
+        type: text
+      - name: width
+        label: Width
+        type: number
+      - name: height
+        label: Height
+        type: number
+      list:
+        collapsible:
+          collapsed: true
+          summary: '{alt}'
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{title}'
+  - name: texts
+    label: Texts
+    type: object
+    fields:
+    - name: id
+      label: Id
+      type: string
+      hidden: true
+    - name: section
+      label: Section
+      type: string
+      readonly: true
+    - name: label
+      label: Label
+      type: string
+      readonly: true
+    - name: value
+      label: Value
+      type: text
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{label}'
+  - name: links
+    label: Links
+    type: object
+    fields:
+    - name: id
+      label: Id
+      type: string
+      hidden: true
+    - name: label
+      label: Label
+      type: string
+      readonly: true
+    - name: url
+      label: Url
+      type: string
+    list:
+      collapsible:
+        collapsed: true
+        summary: '{label}'

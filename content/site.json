@@ -1,0 +1,2048 @@
+{
+  "meta": {
+    "title": "Mohammad M. Amirian | Mathematics & Ocean Science",
+    "description": "Mohammad M. Amirian is an applied mathematician and statistician studying phytoplankton physiology, marine primary production, and ocean carbon cycling."
+  },
+  "texts": [
+    {
+      "id": "text-1",
+      "section": "General",
+      "label": "Skip to content",
+      "value": "Skip to content"
+    },
+    {
+      "id": "text-2",
+      "section": "Navigation",
+      "label": "m",
+      "value": "m"
+    },
+    {
+      "id": "text-3",
+      "section": "Navigation",
+      "label": "Mohammad M. Amirian",
+      "value": "Mohammad M. Amirian"
+    },
+    {
+      "id": "text-4",
+      "section": "Navigation",
+      "label": "Menu",
+      "value": "Menu"
+    },
+    {
+      "id": "text-5",
+      "section": "Navigation",
+      "label": "Research",
+      "value": "Research"
+    },
+    {
+      "id": "text-6",
+      "section": "Navigation",
+      "label": "Publications",
+      "value": "Publications"
+    },
+    {
+      "id": "text-7",
+      "section": "Navigation",
+      "label": "Software & data",
+      "value": "Software & data"
+    },
+    {
+      "id": "text-8",
+      "section": "Navigation",
+      "label": "Teaching",
+      "value": "Teaching"
+    },
+    {
+      "id": "text-9",
+      "section": "Navigation",
+      "label": "Photos",
+      "value": "Photos"
+    },
+    {
+      "id": "text-10",
+      "section": "Navigation",
+      "label": "Contact",
+      "value": "Contact"
+    },
+    {
+      "id": "text-11",
+      "section": "Navigation",
+      "label": "CV",
+      "value": "CV"
+    },
+    {
+      "id": "text-12",
+      "section": "about",
+      "label": "Applied mathematics · Statistics · Ocean science",
+      "value": "Applied mathematics · Statistics · Ocean science"
+    },
+    {
+      "id": "text-13",
+      "section": "about",
+      "label": "Understanding the ocean through mathematics and data.",
+      "value": "Understanding the ocean through mathematics and data."
+    },
+    {
+      "id": "text-14",
+      "section": "about",
+      "label": "I study phytoplankton physiology, marine primary production, and ocean carbon cycling",
+      "value": "I study phytoplankton physiology, marine primary production, and ocean carbon cycling—connecting mechanistic models, statistical inference, and machine learning with observations."
+    },
+    {
+      "id": "text-15",
+      "section": "about",
+      "label": "Explore my research",
+      "value": "Explore my research"
+    },
+    {
+      "id": "text-16",
+      "section": "about",
+      "label": "Download CV",
+      "value": "Download CV"
+    },
+    {
+      "id": "text-17",
+      "section": "about",
+      "label": "From cells to the ocean",
+      "value": "From cells to the ocean"
+    },
+    {
+      "id": "text-18",
+      "section": "about",
+      "label": "Small organisms,",
+      "value": "Small organisms,"
+    },
+    {
+      "id": "text-19",
+      "section": "about",
+      "label": "planetary significance.",
+      "value": "planetary significance."
+    },
+    {
+      "id": "text-20",
+      "section": "about",
+      "label": "Current appointment",
+      "value": "Current appointment"
+    },
+    {
+      "id": "text-21",
+      "section": "about",
+      "label": "Postdoctoral Fellow · CUNY",
+      "value": "Postdoctoral Fellow · CUNY"
+    },
+    {
+      "id": "text-22",
+      "section": "about",
+      "label": "New York City College of Technology",
+      "value": "New York City College of Technology"
+    },
+    {
+      "id": "text-23",
+      "section": "about",
+      "label": "Collaborative research",
+      "value": "Collaborative research"
+    },
+    {
+      "id": "text-24",
+      "section": "about",
+      "label": "Terra Data to Insights Lab (Terra D2I)",
+      "value": "Terra Data to Insights Lab (Terra D2I)"
+    },
+    {
+      "id": "text-25",
+      "section": "about",
+      "label": "LEAP at Columbia University",
+      "value": "LEAP at Columbia University"
+    },
+    {
+      "id": "text-26",
+      "section": "about",
+      "label": "Based in",
+      "value": "Based in"
+    },
+    {
+      "id": "text-27",
+      "section": "about",
+      "label": "Brooklyn, New York",
+      "value": "Brooklyn, New York"
+    },
+    {
+      "id": "text-28",
+      "section": "about",
+      "label": "United States",
+      "value": "United States"
+    },
+    {
+      "id": "text-29",
+      "section": "research",
+      "label": "Research",
+      "value": "Research"
+    },
+    {
+      "id": "text-30",
+      "section": "research",
+      "label": "Living systems.",
+      "value": "Living systems."
+    },
+    {
+      "id": "text-31",
+      "section": "research",
+      "label": "Mathematical questions.",
+      "value": "Mathematical questions."
+    },
+    {
+      "id": "text-32",
+      "section": "research",
+      "label": "My work connects biological mechanisms with the patterns we observe in the ocean. I d",
+      "value": "My work connects biological mechanisms with the patterns we observe in the ocean. I develop models that explain how organisms respond to their environment and methods that quantify what we can learn from marine data."
+    },
+    {
+      "id": "text-33",
+      "section": "research",
+      "label": "Light & phytoplankton",
+      "value": "Light & phytoplankton"
+    },
+    {
+      "id": "text-34",
+      "section": "research",
+      "label": "Modelling photosynthetic responses to light, including photoinhibition and environmen",
+      "value": "Modelling photosynthetic responses to light, including photoinhibition and environmental variability, to understand their consequences for marine primary production."
+    },
+    {
+      "id": "text-35",
+      "section": "research",
+      "label": "Photophysiology",
+      "value": "Photophysiology"
+    },
+    {
+      "id": "text-36",
+      "section": "research",
+      "label": "Primary production",
+      "value": "Primary production"
+    },
+    {
+      "id": "text-37",
+      "section": "research",
+      "label": "Read the photoinhibition paper",
+      "value": "Read the photoinhibition paper"
+    },
+    {
+      "id": "text-38",
+      "section": "research",
+      "label": "Ocean carbon & uncertainty",
+      "value": "Ocean carbon & uncertainty"
+    },
+    {
+      "id": "text-39",
+      "section": "research",
+      "label": "Developing statistical and machine-learning approaches for surface-ocean pCO₂ reconst",
+      "value": "Developing statistical and machine-learning approaches for surface-ocean pCO₂ reconstruction, with a focus on predictive uncertainty and probabilistic methods."
+    },
+    {
+      "id": "text-40",
+      "section": "research",
+      "label": "Machine learning",
+      "value": "Machine learning"
+    },
+    {
+      "id": "text-41",
+      "section": "research",
+      "label": "Carbon cycling",
+      "value": "Carbon cycling"
+    },
+    {
+      "id": "text-42",
+      "section": "research",
+      "label": "Explore related publications",
+      "value": "Explore related publications"
+    },
+    {
+      "id": "text-43",
+      "section": "research",
+      "label": "Biological dynamics & memory",
+      "value": "Biological dynamics & memory"
+    },
+    {
+      "id": "text-44",
+      "section": "research",
+      "label": "Using fractional calculus and differential equations to study how past conditions inf",
+      "value": "Using fractional calculus and differential equations to study how past conditions influence microbial growth, ecological interactions, and complex biological dynamics."
+    },
+    {
+      "id": "text-45",
+      "section": "research",
+      "label": "Mechanistic models",
+      "value": "Mechanistic models"
+    },
+    {
+      "id": "text-46",
+      "section": "research",
+      "label": "Fractional calculus",
+      "value": "Fractional calculus"
+    },
+    {
+      "id": "text-47",
+      "section": "research",
+      "label": "Read the microbial memory paper",
+      "value": "Read the microbial memory paper"
+    },
+    {
+      "id": "text-48",
+      "section": "publications",
+      "label": "Publications",
+      "value": "Publications"
+    },
+    {
+      "id": "text-49",
+      "section": "publications",
+      "label": "Papers & ongoing work",
+      "value": "Papers & ongoing work"
+    },
+    {
+      "id": "text-50",
+      "section": "publications",
+      "label": "Google Scholar",
+      "value": "Google Scholar"
+    },
+    {
+      "id": "text-51",
+      "section": "publications",
+      "label": "Selected",
+      "value": "Selected"
+    },
+    {
+      "id": "text-52",
+      "section": "publications",
+      "label": "Published & accepted",
+      "value": "Published & accepted"
+    },
+    {
+      "id": "text-53",
+      "section": "publications",
+      "label": "Under review",
+      "value": "Under review"
+    },
+    {
+      "id": "text-54",
+      "section": "publications",
+      "label": "In preparation",
+      "value": "In preparation"
+    },
+    {
+      "id": "text-55",
+      "section": "publications",
+      "label": "Other preprints",
+      "value": "Other preprints"
+    },
+    {
+      "id": "text-56",
+      "section": "publications",
+      "label": "All work",
+      "value": "All work"
+    },
+    {
+      "id": "text-57",
+      "section": "publications",
+      "label": "20 works",
+      "value": "20 works"
+    },
+    {
+      "id": "text-58",
+      "section": "software",
+      "label": "Software & datasets",
+      "value": "Software & datasets"
+    },
+    {
+      "id": "text-59",
+      "section": "software",
+      "label": "Tools for ocean science.",
+      "value": "Tools for ocean science."
+    },
+    {
+      "id": "text-60",
+      "section": "software",
+      "label": "Open research resources for studying phytoplankton photosynthesis—from fitting indivi",
+      "value": "Open research resources for studying phytoplankton photosynthesis—from fitting individual light-response curves to analysing measurements across marine environments."
+    },
+    {
+      "id": "text-61",
+      "section": "software",
+      "label": "Open-source R package",
+      "value": "Open-source R package"
+    },
+    {
+      "id": "text-62",
+      "section": "software",
+      "label": "piCurve",
+      "value": "piCurve"
+    },
+    {
+      "id": "text-63",
+      "section": "software",
+      "label": "Fit and analyse photosynthesis–irradiance curves, including photoinhibition. Estimate",
+      "value": "Fit and analyse photosynthesis–irradiance curves, including photoinhibition. Estimate surface irradiance and phytoplankton absorption within a common workflow."
+    },
+    {
+      "id": "text-64",
+      "section": "software",
+      "label": "Explore piCurve",
+      "value": "Explore piCurve"
+    },
+    {
+      "id": "text-65",
+      "section": "software",
+      "label": "Read the preprint",
+      "value": "Read the preprint"
+    },
+    {
+      "id": "text-66",
+      "section": "software",
+      "label": "Marine photosynthesis dataset",
+      "value": "Marine photosynthesis dataset"
+    },
+    {
+      "id": "text-67",
+      "section": "software",
+      "label": "piData",
+      "value": "piData"
+    },
+    {
+      "id": "text-68",
+      "section": "software",
+      "label": "A compilation of photosynthesis–irradiance measurements from ¹⁴C incubation experimen",
+      "value": "A compilation of photosynthesis–irradiance measurements from ¹⁴C incubation experiments, developed for Fisheries and Oceans Canada."
+    },
+    {
+      "id": "text-69",
+      "section": "software",
+      "label": "Access the dataset",
+      "value": "Access the dataset"
+    },
+    {
+      "id": "text-70",
+      "section": "software",
+      "label": "Read the preprint",
+      "value": "Read the preprint"
+    },
+    {
+      "id": "text-71",
+      "section": "software",
+      "label": "More research code on",
+      "value": "More research code on"
+    },
+    {
+      "id": "text-72",
+      "section": "software",
+      "label": "GitHub",
+      "value": "GitHub"
+    },
+    {
+      "id": "text-73",
+      "section": "cv",
+      "label": "Academic background",
+      "value": "Academic background"
+    },
+    {
+      "id": "text-74",
+      "section": "cv",
+      "label": "A path through",
+      "value": "A path through"
+    },
+    {
+      "id": "text-75",
+      "section": "cv",
+      "label": "mathematics & the ocean.",
+      "value": "mathematics & the ocean."
+    },
+    {
+      "id": "text-76",
+      "section": "cv",
+      "label": "My background spans pure and applied mathematics, statistics, and oceanography. I now",
+      "value": "My background spans pure and applied mathematics, statistics, and oceanography. I now bring these perspectives together in research on marine ecosystems and ocean carbon."
+    },
+    {
+      "id": "text-77",
+      "section": "cv",
+      "label": "Full curriculum vitae",
+      "value": "Full curriculum vitae"
+    },
+    {
+      "id": "text-78",
+      "section": "cv",
+      "label": "Academic appointments",
+      "value": "Academic appointments"
+    },
+    {
+      "id": "text-79",
+      "section": "cv",
+      "label": "2026 — present",
+      "value": "2026 — present"
+    },
+    {
+      "id": "text-80",
+      "section": "cv",
+      "label": "Postdoctoral Fellow",
+      "value": "Postdoctoral Fellow"
+    },
+    {
+      "id": "text-81",
+      "section": "cv",
+      "label": "New York City College of Technology",
+      "value": "New York City College of Technology"
+    },
+    {
+      "id": "text-82",
+      "section": "cv",
+      "label": "City University of New York, USA",
+      "value": "City University of New York, USA"
+    },
+    {
+      "id": "text-83",
+      "section": "cv",
+      "label": "Surface-ocean pCO₂ reconstruction and uncertainty quantification. Working with the",
+      "value": "Surface-ocean pCO₂ reconstruction and uncertainty quantification. Working with the"
+    },
+    {
+      "id": "text-84",
+      "section": "cv",
+      "label": "Terra Data to Insights Lab (Terra D2I)",
+      "value": "Terra Data to Insights Lab (Terra D2I)"
+    },
+    {
+      "id": "text-85",
+      "section": "cv",
+      "label": "LEAP at Columbia University",
+      "value": "LEAP at Columbia University"
+    },
+    {
+      "id": "text-86",
+      "section": "cv",
+      "label": "Postdoctoral Fellow",
+      "value": "Postdoctoral Fellow"
+    },
+    {
+      "id": "text-87",
+      "section": "cv",
+      "label": "Dalhousie University, Canada",
+      "value": "Dalhousie University, Canada"
+    },
+    {
+      "id": "text-88",
+      "section": "cv",
+      "label": "Marine Microbial Macroecology Lab",
+      "value": "Marine Microbial Macroecology Lab"
+    },
+    {
+      "id": "text-89",
+      "section": "cv",
+      "label": "Department of Oceanography. Phytoplankton photophysiology, environmental variability,",
+      "value": "Department of Oceanography. Phytoplankton photophysiology, environmental variability, and development of piData and piCurve."
+    },
+    {
+      "id": "text-90",
+      "section": "cv",
+      "label": "Education",
+      "value": "Education"
+    },
+    {
+      "id": "text-91",
+      "section": "cv",
+      "label": "PhD in Statistics",
+      "value": "PhD in Statistics"
+    },
+    {
+      "id": "text-92",
+      "section": "cv",
+      "label": "Dalhousie University, Canada",
+      "value": "Dalhousie University, Canada"
+    },
+    {
+      "id": "text-93",
+      "section": "cv",
+      "label": "Thesis:",
+      "value": "Thesis:"
+    },
+    {
+      "id": "text-94",
+      "section": "cv",
+      "label": "Modelling Phytoplankton Growth Rates under Changing Resource Conditions",
+      "value": "Modelling Phytoplankton Growth Rates under Changing Resource Conditions"
+    },
+    {
+      "id": "text-95",
+      "section": "cv",
+      "label": "Supervisor: Dr. Andrew J. Irwin.",
+      "value": "Supervisor: Dr. Andrew J. Irwin."
+    },
+    {
+      "id": "text-96",
+      "section": "cv",
+      "label": "Master’s in Applied Mathematics",
+      "value": "Master’s in Applied Mathematics"
+    },
+    {
+      "id": "text-97",
+      "section": "cv",
+      "label": "Tarbiat Modares University, Iran",
+      "value": "Tarbiat Modares University, Iran"
+    },
+    {
+      "id": "text-98",
+      "section": "cv",
+      "label": "Thesis: Fractional Calculus Models of Complex Dynamics in Biological Elements.",
+      "value": "Thesis: Fractional Calculus Models of Complex Dynamics in Biological Elements."
+    },
+    {
+      "id": "text-99",
+      "section": "cv",
+      "label": "Bachelor’s in Pure Mathematics",
+      "value": "Bachelor’s in Pure Mathematics"
+    },
+    {
+      "id": "text-100",
+      "section": "cv",
+      "label": "Malayer University, Iran",
+      "value": "Malayer University, Iran"
+    },
+    {
+      "id": "text-101",
+      "section": "cv",
+      "label": "Awards, distinctions & academic service",
+      "value": "Awards, distinctions & academic service"
+    },
+    {
+      "id": "text-102",
+      "section": "cv",
+      "label": "Scholarships & support",
+      "value": "Scholarships & support"
+    },
+    {
+      "id": "text-103",
+      "section": "cv",
+      "label": "2022 · Travel Grant",
+      "value": "2022 · Travel Grant"
+    },
+    {
+      "id": "text-104",
+      "section": "cv",
+      "label": "Faculty of Graduate Studies, Dalhousie University.",
+      "value": "Faculty of Graduate Studies, Dalhousie University."
+    },
+    {
+      "id": "text-105",
+      "section": "cv",
+      "label": "2019 · Doctoral research assistantship",
+      "value": "2019 · Doctoral research assistantship"
+    },
+    {
+      "id": "text-106",
+      "section": "cv",
+      "label": "Department of Mathematics and Statistics, Dalhousie University; support over 4.5 year",
+      "value": "Department of Mathematics and Statistics, Dalhousie University; support over 4.5 years."
+    },
+    {
+      "id": "text-107",
+      "section": "cv",
+      "label": "2019 · Biomedicine Discovery Scholarship",
+      "value": "2019 · Biomedicine Discovery Scholarship"
+    },
+    {
+      "id": "text-108",
+      "section": "cv",
+      "label": "Monash University. Awarded; not taken up.",
+      "value": "Monash University. Awarded; not taken up."
+    },
+    {
+      "id": "text-109",
+      "section": "cv",
+      "label": "2019 · Tuition Fee Scholarship",
+      "value": "2019 · Tuition Fee Scholarship"
+    },
+    {
+      "id": "text-110",
+      "section": "cv",
+      "label": "University of New South Wales. Awarded; not taken up.",
+      "value": "University of New South Wales. Awarded; not taken up."
+    },
+    {
+      "id": "text-111",
+      "section": "cv",
+      "label": "Top 3% nationally · Konkour",
+      "value": "Top 3% nationally · Konkour"
+    },
+    {
+      "id": "text-112",
+      "section": "cv",
+      "label": "In Iran’s 2013 National M.Sc. Entrance Examination, ranked 237th in applied mathemati",
+      "value": "In Iran’s 2013 National M.Sc. Entrance Examination, ranked 237th in applied mathematics and 261st in pure mathematics among 9,230 candidates."
+    },
+    {
+      "id": "text-113",
+      "section": "cv",
+      "label": "Journal peer review",
+      "value": "Journal peer review"
+    },
+    {
+      "id": "text-114",
+      "section": "cv",
+      "label": "Environmental Management; Ecological Informatics; Qualitative Theory of Dynamical Sys",
+      "value": "Environmental Management; Ecological Informatics; Qualitative Theory of Dynamical Systems; Scientific Reports."
+    },
+    {
+      "id": "text-115",
+      "section": "cv",
+      "label": "Conference contributions & workshops",
+      "value": "Conference contributions & workshops"
+    },
+    {
+      "id": "text-116",
+      "section": "cv",
+      "label": "Workshops & tutorials",
+      "value": "Workshops & tutorials"
+    },
+    {
+      "id": "text-117",
+      "section": "cv",
+      "label": "Oct. 2025",
+      "value": "Oct. 2025"
+    },
+    {
+      "id": "text-118",
+      "section": "cv",
+      "label": "Modelling Primary Production · Split, Croatia",
+      "value": "Modelling Primary Production · Split, Croatia"
+    },
+    {
+      "id": "text-119",
+      "section": "cv",
+      "label": "Faculty of Science. Tutorial on piCurve and a research talk on phytoplankton photoinh",
+      "value": "Faculty of Science. Tutorial on piCurve and a research talk on phytoplankton photoinhibition modelling."
+    },
+    {
+      "id": "text-120",
+      "section": "cv",
+      "label": "Mar. 2025",
+      "value": "Mar. 2025"
+    },
+    {
+      "id": "text-121",
+      "section": "cv",
+      "label": "Modelling Primary Production · New York, USA",
+      "value": "Modelling Primary Production · New York, USA"
+    },
+    {
+      "id": "text-122",
+      "section": "cv",
+      "label": "Flatiron Institute. Joint presentation with Andrew Irwin on quantifying the effects o",
+      "value": "Flatiron Institute. Joint presentation with Andrew Irwin on quantifying the effects of photoinhibition on photosynthetic rate."
+    },
+    {
+      "id": "text-123",
+      "section": "cv",
+      "label": "Conference contributions",
+      "value": "Conference contributions"
+    },
+    {
+      "id": "text-124",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-125",
+      "section": "cv",
+      "label": ", G Accarino, V Acquaviva,",
+      "value": ", G Accarino, V Acquaviva,"
+    },
+    {
+      "id": "text-126",
+      "section": "cv",
+      "label": "Improving Global Ocean Surface pCO₂ Prediction Using Biogeographic Residual Correctio",
+      "value": "Improving Global Ocean Surface pCO₂ Prediction Using Biogeographic Residual Correction,"
+    },
+    {
+      "id": "text-127",
+      "section": "cv",
+      "label": "American Geophysical Union",
+      "value": "American Geophysical Union"
+    },
+    {
+      "id": "text-128",
+      "section": "cv",
+      "label": "G Accarino,",
+      "value": "G Accarino,"
+    },
+    {
+      "id": "text-129",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-130",
+      "section": "cv",
+      "label": ", V Acquaviva,",
+      "value": ", V Acquaviva,"
+    },
+    {
+      "id": "text-131",
+      "section": "cv",
+      "label": "Beyond Point Predictions: Diffusion-Based Probabilistic Reconstruction of Global Surf",
+      "value": "Beyond Point Predictions: Diffusion-Based Probabilistic Reconstruction of Global Surface Ocean pCO₂,"
+    },
+    {
+      "id": "text-132",
+      "section": "cv",
+      "label": "American Geophysical Union",
+      "value": "American Geophysical Union"
+    },
+    {
+      "id": "text-133",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-134",
+      "section": "cv",
+      "label": ", E Devred, S Clay, Z Finkel, AJ Irwin.",
+      "value": ", E Devred, S Clay, Z Finkel, AJ Irwin."
+    },
+    {
+      "id": "text-135",
+      "section": "cv",
+      "label": "A compilation of photosynthetic rate incubation experiments and analysis using common",
+      "value": "A compilation of photosynthetic rate incubation experiments and analysis using common models"
+    },
+    {
+      "id": "text-136",
+      "section": "cv",
+      "label": "CBIOMES Annual Meeting",
+      "value": "CBIOMES Annual Meeting"
+    },
+    {
+      "id": "text-137",
+      "section": "cv",
+      "label": ", Flatiron Institute, NY, USA.",
+      "value": ", Flatiron Institute, NY, USA."
+    },
+    {
+      "id": "text-138",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-139",
+      "section": "cv",
+      "label": ", P Fahimi, Z Finkel, E Devred, S Clay, AJ Irwin.",
+      "value": ", P Fahimi, Z Finkel, E Devred, S Clay, AJ Irwin."
+    },
+    {
+      "id": "text-140",
+      "section": "cv",
+      "label": "Ecophysiological Modeling of Marine Photosynthesis.",
+      "value": "Ecophysiological Modeling of Marine Photosynthesis."
+    },
+    {
+      "id": "text-141",
+      "section": "cv",
+      "label": "Ocean Science Meeting",
+      "value": "Ocean Science Meeting"
+    },
+    {
+      "id": "text-142",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-143",
+      "section": "cv",
+      "label": ", P Fahimi, Z Finkel, E Devred, S Clay, AJ Irwin.",
+      "value": ", P Fahimi, Z Finkel, E Devred, S Clay, AJ Irwin."
+    },
+    {
+      "id": "text-144",
+      "section": "cv",
+      "label": "Ecophysiological Modeling of Marine Photosynthesis.",
+      "value": "Ecophysiological Modeling of Marine Photosynthesis."
+    },
+    {
+      "id": "text-145",
+      "section": "cv",
+      "label": "CBIOMES Annual Meeting",
+      "value": "CBIOMES Annual Meeting"
+    },
+    {
+      "id": "text-146",
+      "section": "cv",
+      "label": ", Flatiron Institute, NY, USA.",
+      "value": ", Flatiron Institute, NY, USA."
+    },
+    {
+      "id": "text-147",
+      "section": "cv",
+      "label": "K Kam, E Devred, S Clay,",
+      "value": "K Kam, E Devred, S Clay,"
+    },
+    {
+      "id": "text-148",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-149",
+      "section": "cv",
+      "label": ", AJ Irwin, D Atamanchuk, D.W.R Wallace.",
+      "value": ", AJ Irwin, D Atamanchuk, D.W.R Wallace."
+    },
+    {
+      "id": "text-150",
+      "section": "cv",
+      "label": "Re-evaluating methodologies for estimating marine primary productivity in the Labrado",
+      "value": "Re-evaluating methodologies for estimating marine primary productivity in the Labrador Sea using satellite and in situ observations"
+    },
+    {
+      "id": "text-151",
+      "section": "cv",
+      "label": "Ocean Optics Conference",
+      "value": "Ocean Optics Conference"
+    },
+    {
+      "id": "text-152",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-153",
+      "section": "cv",
+      "label": ", JT Siddons, AJ Irwin.",
+      "value": ", JT Siddons, AJ Irwin."
+    },
+    {
+      "id": "text-154",
+      "section": "cv",
+      "label": "Extending the Monod model of microbial growth with memory and an application to phyto",
+      "value": "Extending the Monod model of microbial growth with memory and an application to phytoplankton community dynamics."
+    },
+    {
+      "id": "text-155",
+      "section": "cv",
+      "label": "ASLO Meeting",
+      "value": "ASLO Meeting"
+    },
+    {
+      "id": "text-156",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-157",
+      "section": "cv",
+      "label": ", Z Finkel, AJ Irwin.",
+      "value": ", Z Finkel, AJ Irwin."
+    },
+    {
+      "id": "text-158",
+      "section": "cv",
+      "label": "A New Model of Phytoplankton Photoinhibition.",
+      "value": "A New Model of Phytoplankton Photoinhibition."
+    },
+    {
+      "id": "text-159",
+      "section": "cv",
+      "label": "CDOGS Annual Meeting, Dalhousie",
+      "value": "CDOGS Annual Meeting, Dalhousie"
+    },
+    {
+      "id": "text-160",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-161",
+      "section": "cv",
+      "label": ", JT Siddons, AJ Irwin.",
+      "value": ", JT Siddons, AJ Irwin."
+    },
+    {
+      "id": "text-162",
+      "section": "cv",
+      "label": "Quantify the Cell Memory and Its Influence on Phytoplankton Resource Competition.",
+      "value": "Quantify the Cell Memory and Its Influence on Phytoplankton Resource Competition."
+    },
+    {
+      "id": "text-163",
+      "section": "cv",
+      "label": "CBIOMES Annual Meeting",
+      "value": "CBIOMES Annual Meeting"
+    },
+    {
+      "id": "text-164",
+      "section": "cv",
+      "label": ", Flatiron Institute, NY, USA.",
+      "value": ", Flatiron Institute, NY, USA."
+    },
+    {
+      "id": "text-165",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-166",
+      "section": "cv",
+      "label": ", AJ Irwin.",
+      "value": ", AJ Irwin."
+    },
+    {
+      "id": "text-167",
+      "section": "cv",
+      "label": "Extending the Monod Model of Microbial Growth with Memory.",
+      "value": "Extending the Monod Model of Microbial Growth with Memory."
+    },
+    {
+      "id": "text-168",
+      "section": "cv",
+      "label": "CBIOMES Annual Meeting",
+      "value": "CBIOMES Annual Meeting"
+    },
+    {
+      "id": "text-169",
+      "section": "cv",
+      "label": ", Flatiron Institute, NY, USA.",
+      "value": ", Flatiron Institute, NY, USA."
+    },
+    {
+      "id": "text-170",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-171",
+      "section": "cv",
+      "label": ", AJ Irwin.",
+      "value": ", AJ Irwin."
+    },
+    {
+      "id": "text-172",
+      "section": "cv",
+      "label": "A New Mechanistic Growth Model: Monod-Memory.",
+      "value": "A New Mechanistic Growth Model: Monod-Memory."
+    },
+    {
+      "id": "text-173",
+      "section": "cv",
+      "label": "CBIOMES Annual Meeting",
+      "value": "CBIOMES Annual Meeting"
+    },
+    {
+      "id": "text-174",
+      "section": "cv",
+      "label": ", Flatiron Institute, NY, USA.",
+      "value": ", Flatiron Institute, NY, USA."
+    },
+    {
+      "id": "text-175",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-176",
+      "section": "cv",
+      "label": ", Y Jamali.",
+      "value": ", Y Jamali."
+    },
+    {
+      "id": "text-177",
+      "section": "cv",
+      "label": "Fractional Calculus Applied to Model Cell Viscoelasticity.",
+      "value": "Fractional Calculus Applied to Model Cell Viscoelasticity."
+    },
+    {
+      "id": "text-178",
+      "section": "cv",
+      "label": "22nd Iranian Conference on Biomedical Engineering (ICBME) - Mathematics in Biomedical",
+      "value": "22nd Iranian Conference on Biomedical Engineering (ICBME) - Mathematics in Biomedical Engineering."
+    },
+    {
+      "id": "text-179",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-180",
+      "section": "cv",
+      "label": ", Y Jamali.",
+      "value": ", Y Jamali."
+    },
+    {
+      "id": "text-181",
+      "section": "cv",
+      "label": "Prediction of Local Measurement of Cell Viscoelasticity with Fractional Calculus Appr",
+      "value": "Prediction of Local Measurement of Cell Viscoelasticity with Fractional Calculus Approach"
+    },
+    {
+      "id": "text-182",
+      "section": "cv",
+      "label": ". 3rd Dubai International Conference on New Approaches in Sciences Engineering & Tech",
+      "value": ". 3rd Dubai International Conference on New Approaches in Sciences Engineering & Technology, 2015 December 9-10 Zayed University."
+    },
+    {
+      "id": "text-183",
+      "section": "cv",
+      "label": "MM Amirian",
+      "value": "MM Amirian"
+    },
+    {
+      "id": "text-184",
+      "section": "cv",
+      "label": ", A Mazarei.",
+      "value": ", A Mazarei."
+    },
+    {
+      "id": "text-185",
+      "section": "cv",
+      "label": "Prediction of Action Potential in Neuron with Fractional Calculus Approach",
+      "value": "Prediction of Action Potential in Neuron with Fractional Calculus Approach"
+    },
+    {
+      "id": "text-186",
+      "section": "cv",
+      "label": ". 3rd Dubai International Conference on New Approaches in Sciences Engineering & Tech",
+      "value": ". 3rd Dubai International Conference on New Approaches in Sciences Engineering & Technology, Zayed University, December 9–10."
+    },
+    {
+      "id": "text-187",
+      "section": "cv",
+      "label": "Technical expertise & languages",
+      "value": "Technical expertise & languages"
+    },
+    {
+      "id": "text-188",
+      "section": "cv",
+      "label": "Programming & scientific computing",
+      "value": "Programming & scientific computing"
+    },
+    {
+      "id": "text-189",
+      "section": "cv",
+      "label": "R (advanced); working knowledge of Python, Julia, and MATLAB. Differential-equation m",
+      "value": "R (advanced); working knowledge of Python, Julia, and MATLAB. Differential-equation modelling, parallel computing, data processing, and visualisation."
+    },
+    {
+      "id": "text-190",
+      "section": "cv",
+      "label": "Research tools & languages",
+      "value": "Research tools & languages"
+    },
+    {
+      "id": "text-191",
+      "section": "cv",
+      "label": "LaTeX, Jupyter, and Pluto.",
+      "value": "LaTeX, Jupyter, and Pluto."
+    },
+    {
+      "id": "text-192",
+      "section": "cv",
+      "label": "Farsi (native); English (fluent).",
+      "value": "Farsi (native); English (fluent)."
+    },
+    {
+      "id": "text-193",
+      "section": "cv",
+      "label": "Statistical modelling",
+      "value": "Statistical modelling"
+    },
+    {
+      "id": "text-194",
+      "section": "cv",
+      "label": "Generalised additive models, mixed-effects models, Bayesian modelling, regularisation",
+      "value": "Generalised additive models, mixed-effects models, Bayesian modelling, regularisation, and nonlinear model fitting."
+    },
+    {
+      "id": "text-195",
+      "section": "cv",
+      "label": "Machine learning",
+      "value": "Machine learning"
+    },
+    {
+      "id": "text-196",
+      "section": "cv",
+      "label": "Predictive modelling with tidymodels, XGBoost, random forests, and kernel methods.",
+      "value": "Predictive modelling with tidymodels, XGBoost, random forests, and kernel methods."
+    },
+    {
+      "id": "text-197",
+      "section": "teaching",
+      "label": "Teaching & mentoring",
+      "value": "Teaching & mentoring"
+    },
+    {
+      "id": "text-198",
+      "section": "teaching",
+      "label": "Sharing ways",
+      "value": "Sharing ways"
+    },
+    {
+      "id": "text-199",
+      "section": "teaching",
+      "label": "to think quantitatively.",
+      "value": "to think quantitatively."
+    },
+    {
+      "id": "text-200",
+      "section": "teaching",
+      "label": "My teaching spans introductory statistics, probability, mathematical modelling, and d",
+      "value": "My teaching spans introductory statistics, probability, mathematical modelling, and data science. My mentoring connects mathematical methods with questions in marine science and biological dynamics."
+    },
+    {
+      "id": "text-201",
+      "section": "teaching",
+      "label": "Course instructor · Dalhousie University",
+      "value": "Course instructor · Dalhousie University"
+    },
+    {
+      "id": "text-202",
+      "section": "teaching",
+      "label": "STAT 1060",
+      "value": "STAT 1060"
+    },
+    {
+      "id": "text-203",
+      "section": "teaching",
+      "label": "Introductory Statistics for Science and Health Sciences",
+      "value": "Introductory Statistics for Science and Health Sciences"
+    },
+    {
+      "id": "text-204",
+      "section": "teaching",
+      "label": "Summer 2024 · Fall 2025, sections 01 & 02",
+      "value": "Summer 2024 · Fall 2025, sections 01 & 02"
+    },
+    {
+      "id": "text-205",
+      "section": "teaching",
+      "label": "Teaching assistant roles",
+      "value": "Teaching assistant roles"
+    },
+    {
+      "id": "text-206",
+      "section": "teaching",
+      "label": "2022–2024 · STAT 2060",
+      "value": "2022–2024 · STAT 2060"
+    },
+    {
+      "id": "text-207",
+      "section": "teaching",
+      "label": "Introduction to Probability and Statistics.",
+      "value": "Introduction to Probability and Statistics."
+    },
+    {
+      "id": "text-208",
+      "section": "teaching",
+      "label": "2022, 2024 · STAT 1060",
+      "value": "2022, 2024 · STAT 1060"
+    },
+    {
+      "id": "text-209",
+      "section": "teaching",
+      "label": "Introductory Statistics for Science and Health Sciences.",
+      "value": "Introductory Statistics for Science and Health Sciences."
+    },
+    {
+      "id": "text-210",
+      "section": "teaching",
+      "label": "2021 · MATH 1290 & MATH 2300",
+      "value": "2021 · MATH 1290 & MATH 2300"
+    },
+    {
+      "id": "text-211",
+      "section": "teaching",
+      "label": "Engineering Mathematics II; Mathematical Modeling.",
+      "value": "Engineering Mathematics II; Mathematical Modeling."
+    },
+    {
+      "id": "text-212",
+      "section": "teaching",
+      "label": "2020 · STAT 2450",
+      "value": "2020 · STAT 2450"
+    },
+    {
+      "id": "text-213",
+      "section": "teaching",
+      "label": "Introduction to Data Mining with R.",
+      "value": "Introduction to Data Mining with R."
+    },
+    {
+      "id": "text-214",
+      "section": "teaching",
+      "label": "Research supervision",
+      "value": "Research supervision"
+    },
+    {
+      "id": "text-215",
+      "section": "teaching",
+      "label": "2026 — present · Columbia University",
+      "value": "2026 — present · Columbia University"
+    },
+    {
+      "id": "text-216",
+      "section": "teaching",
+      "label": "Co-supervisor, master’s student",
+      "value": "Co-supervisor, master’s student"
+    },
+    {
+      "id": "text-217",
+      "section": "teaching",
+      "label": "Symbolic regression methods for global pCO₂ reconstruction.",
+      "value": "Symbolic regression methods for global pCO₂ reconstruction."
+    },
+    {
+      "id": "text-218",
+      "section": "teaching",
+      "label": "2025 — present · Dalhousie University",
+      "value": "2025 — present · Dalhousie University"
+    },
+    {
+      "id": "text-219",
+      "section": "teaching",
+      "label": "Research mentor, PhD student",
+      "value": "Research mentor, PhD student"
+    },
+    {
+      "id": "text-220",
+      "section": "teaching",
+      "label": "Quantifying mathematical sources of uncertainty in net primary production estimates.",
+      "value": "Quantifying mathematical sources of uncertainty in net primary production estimates."
+    },
+    {
+      "id": "text-221",
+      "section": "teaching",
+      "label": "2023 · Independent researcher",
+      "value": "2023 · Independent researcher"
+    },
+    {
+      "id": "text-222",
+      "section": "teaching",
+      "label": "Research supervisor",
+      "value": "Research supervisor"
+    },
+    {
+      "id": "text-223",
+      "section": "teaching",
+      "label": "Fractional-order models of neural dynamics and stability analysis. This collaboration",
+      "value": "Fractional-order models of neural dynamics and stability analysis. This collaboration resulted in a publication in"
+    },
+    {
+      "id": "text-224",
+      "section": "teaching",
+      "label": "Cognitive Neurodynamics",
+      "value": "Cognitive Neurodynamics"
+    },
+    {
+      "id": "text-225",
+      "section": "photos",
+      "label": "Photos & moments",
+      "value": "Photos & moments"
+    },
+    {
+      "id": "text-226",
+      "section": "photos",
+      "label": "Meetings & milestones.",
+      "value": "Meetings & milestones."
+    },
+    {
+      "id": "text-227",
+      "section": "photos",
+      "label": "Conversations, collaborations, and a PhD defence—moments from my research journey in ",
+      "value": "Conversations, collaborations, and a PhD defence—moments from my research journey in mathematics and ocean science."
+    },
+    {
+      "id": "text-228",
+      "section": "Outreach",
+      "label": "Beyond the paper",
+      "value": "Beyond the paper"
+    },
+    {
+      "id": "text-229",
+      "section": "Outreach",
+      "label": "Research, in context.",
+      "value": "Research, in context."
+    },
+    {
+      "id": "text-230",
+      "section": "Outreach",
+      "label": "Behind the Paper · Springer Nature · 2025",
+      "value": "Behind the Paper · Springer Nature · 2025"
+    },
+    {
+      "id": "text-231",
+      "section": "Outreach",
+      "label": "A simple equation for a long-standing challenge in ocean science",
+      "value": "A simple equation for a long-standing challenge in ocean science"
+    },
+    {
+      "id": "text-232",
+      "section": "Outreach",
+      "label": "The story behind my work on modelling phytoplankton photoinhibition.",
+      "value": "The story behind my work on modelling phytoplankton photoinhibition."
+    },
+    {
+      "id": "text-233",
+      "section": "Outreach",
+      "label": "Read the article",
+      "value": "Read the article"
+    },
+    {
+      "id": "text-234",
+      "section": "Outreach",
+      "label": "Research coverage · CBIOMES · 2025",
+      "value": "Research coverage · CBIOMES · 2025"
+    },
+    {
+      "id": "text-235",
+      "section": "Outreach",
+      "label": "How too much sunlight limits ocean productivity",
+      "value": "How too much sunlight limits ocean productivity"
+    },
+    {
+      "id": "text-236",
+      "section": "Outreach",
+      "label": "Coverage of our phytoplankton photoinhibition research.",
+      "value": "Coverage of our phytoplankton photoinhibition research."
+    },
+    {
+      "id": "text-237",
+      "section": "Outreach",
+      "label": "Read the feature",
+      "value": "Read the feature"
+    },
+    {
+      "id": "text-238",
+      "section": "Contact",
+      "label": "Get in touch",
+      "value": "Get in touch"
+    },
+    {
+      "id": "text-239",
+      "section": "Contact",
+      "label": "Let’s talk science.",
+      "value": "Let’s talk science."
+    },
+    {
+      "id": "text-240",
+      "section": "Contact",
+      "label": "Mathematics, marine ecosystems, and the questions between them.",
+      "value": "Mathematics, marine ecosystems, and the questions between them."
+    },
+    {
+      "id": "text-241",
+      "section": "Contact",
+      "label": "M.amirian44@gmail.com",
+      "value": "M.amirian44@gmail.com"
+    },
+    {
+      "id": "text-242",
+      "section": "Contact",
+      "label": "Google Scholar",
+      "value": "Google Scholar"
+    },
+    {
+      "id": "text-243",
+      "section": "Contact",
+      "label": "GitHub",
+      "value": "GitHub"
+    },
+    {
+      "id": "text-244",
+      "section": "Contact",
+      "label": "LinkedIn",
+      "value": "LinkedIn"
+    },
+    {
+      "id": "text-245",
+      "section": "Contact",
+      "label": "© 2026 Mohammad M. Amirian · Brooklyn, New York",
+      "value": "© 2026 Mohammad M. Amirian · Brooklyn, New York"
+    },
+    {
+      "id": "text-246",
+      "section": "Contact",
+      "label": "Back to top",
+      "value": "Back to top"
+    }
+  ],
+  "links": [
+    {
+      "id": "link-1",
+      "section": "about",
+      "label": "Terra Data to Insights Lab (Terra D2I)",
+      "url": "https://vacquaviva.github.io/terrad2i/"
+    },
+    {
+      "id": "link-2",
+      "section": "about",
+      "label": "LEAP at Columbia University",
+      "url": "https://leap.columbia.edu"
+    },
+    {
+      "id": "link-3",
+      "section": "publications",
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=XoNa1sIAAAAJ"
+    },
+    {
+      "id": "link-4",
+      "section": "software",
+      "label": "Explore piCurve",
+      "url": "https://github.com/Mohammad-Amirian/piCurve"
+    },
+    {
+      "id": "link-5",
+      "section": "software",
+      "label": "Read the preprint",
+      "url": "https://arxiv.org/abs/2508.14321"
+    },
+    {
+      "id": "link-6",
+      "section": "software",
+      "label": "Access the dataset",
+      "url": "https://doi.org/10.5281/zenodo.21908199"
+    },
+    {
+      "id": "link-7",
+      "section": "software",
+      "label": "Read the preprint",
+      "url": "https://essd.copernicus.org/preprints/essd-2026-651/"
+    },
+    {
+      "id": "link-8",
+      "section": "software",
+      "label": "GitHub",
+      "url": "https://github.com/Mohammad-Amirian"
+    },
+    {
+      "id": "link-9",
+      "section": "cv",
+      "label": "Terra Data to Insights Lab (Terra D2I)",
+      "url": "https://vacquaviva.github.io/terrad2i/"
+    },
+    {
+      "id": "link-10",
+      "section": "cv",
+      "label": "LEAP at Columbia University",
+      "url": "https://leap.columbia.edu"
+    },
+    {
+      "id": "link-11",
+      "section": "cv",
+      "label": "Marine Microbial Macroecology Lab",
+      "url": "https://www.mmab.ca"
+    },
+    {
+      "id": "link-12",
+      "section": "cv",
+      "label": "Modelling Phytoplankton Growth Rates under Changing Resource Conditions",
+      "url": "https://dalspace.library.dal.ca/items/a3c7c412-b987-4cfa-bf1e-5073cf0f9829"
+    },
+    {
+      "id": "link-13",
+      "section": "cv",
+      "label": "Ocean Science Meeting",
+      "url": "https://agu.confex.com/agu/osm26/meetingapp.cgi/Paper/2025671"
+    },
+    {
+      "id": "link-14",
+      "section": "cv",
+      "label": "CDOGS Annual Meeting, Dalhousie",
+      "url": "https://www.phys.ocean.dal.ca/dosa/content/publications/cdogs2023_abstracts.pdf"
+    },
+    {
+      "id": "link-15",
+      "section": "Outreach",
+      "label": "Read the article",
+      "url": "https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science"
+    },
+    {
+      "id": "link-16",
+      "section": "Outreach",
+      "label": "Read the feature",
+      "url": "https://cbiomes.org/2025/09/17/new-model-sheds-light-on-how-too-much-sunlight-limits-ocean-productivity/"
+    },
+    {
+      "id": "link-17",
+      "section": "Contact",
+      "label": "M.amirian44@gmail.com",
+      "url": "mailto:M.amirian44@gmail.com"
+    },
+    {
+      "id": "link-18",
+      "section": "Contact",
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=XoNa1sIAAAAJ"
+    },
+    {
+      "id": "link-19",
+      "section": "Contact",
+      "label": "GitHub",
+      "url": "https://github.com/Mohammad-Amirian"
+    },
+    {
+      "id": "link-20",
+      "section": "Contact",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mohammad-m-amirian-281561aa/"
+    }
+  ],
+  "publications": [
+    {
+      "id": "publication-1",
+      "year": "2026",
+      "title": "A macromolecular evaluation of the growth rate hypothesis in the ocean",
+      "authors": "ZV Finkel, AJ Irwin, MM Amirian, S Sharoni, MJ Follows",
+      "venue": "Proceedings B",
+      "status": "accepted",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-2",
+      "year": "2026",
+      "title": "Carbon-to-ATP ratios across the kingdoms of life",
+      "authors": "P Fahimi, MM Amirian, AJ Irwin, ZV Finkel",
+      "venue": "iScience",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://doi.org/10.1016/j.isci.2026.116849",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1016/j.isci.2026.116849"
+        }
+      ]
+    },
+    {
+      "id": "publication-3",
+      "year": "2026",
+      "title": "Biochemical remodeling of phytoplankton cell composition under climate change",
+      "authors": "S Sharoni, K Inomura, S Dutkiewicz, O Jahn, ZV Finkel, AJ Irwin, MM Amirian, E Monier, MJ Follows",
+      "venue": "Nature Climate Change",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://doi.org/10.1038/s41558-026-02598-w",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1038/s41558-026-02598-w"
+        }
+      ]
+    },
+    {
+      "id": "publication-4",
+      "year": "2025",
+      "title": "Nonphotochemical quenching and beyond: multi-layered photoprotection shapes light-stress tolerance across seasonal niches in Arctic diatoms",
+      "authors": "D Croteau, S Guérin, M Savoie, N Donaher, MM Amirian, M Babin , DA Campbell, J Lavaud",
+      "venue": "Frontiers in Photobiology",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://www.frontiersin.org/journals/photobiology/articles/10.3389/fphbi.2025.1745893/full",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.frontiersin.org/journals/photobiology/articles/10.3389/fphbi.2025.1745893/full"
+        }
+      ]
+    },
+    {
+      "id": "photoinhibition-paper",
+      "year": "2025",
+      "title": "Parameterization of Photoinhibition for Phytoplankton",
+      "authors": "MM Amirian, E Devred, ZV Finkel, AJ Irwin",
+      "venue": "Communications Earth & Environment",
+      "status": "published",
+      "selected": true,
+      "primaryUrl": "https://www.nature.com/articles/s43247-025-02686-3",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.nature.com/articles/s43247-025-02686-3"
+        }
+      ]
+    },
+    {
+      "id": "publication-6",
+      "year": "2025",
+      "title": "Net primary production in the Labrador Sea between 2014 and 2022 derived from ocean colour remote sensing based on ecological regimes",
+      "authors": "E Devred, S Clay , T Perry, MM Amirian, AJ Irwin, Z Finkel",
+      "venue": "Remote Sensing of Environment",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://www.sciencedirect.com/science/article/pii/S0034425725001178",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0034425725001178"
+        }
+      ]
+    },
+    {
+      "id": "publication-7",
+      "year": "2023",
+      "title": "Stability analysis of fractional order memristor synapse-coupled Hopfield neural network with ring structure",
+      "authors": "L Eftekhari, MM Amirian",
+      "venue": "Cognitive Neurodynamics",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://link.springer.com/article/10.1007/s11571-022-09844-9",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://link.springer.com/article/10.1007/s11571-022-09844-9"
+        }
+      ]
+    },
+    {
+      "id": "memory-paper",
+      "year": "2022",
+      "title": "Extending the Monod Model of Microbial Growth with Memory",
+      "authors": "MM Amirian, AJ Irwin, Z Finkel",
+      "venue": "Frontiers in Marine Science",
+      "status": "published",
+      "selected": true,
+      "primaryUrl": "https://www.frontiersin.org/articles/10.3389/fmars.2022.963734/abstract",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2022.963734/abstract"
+        }
+      ]
+    },
+    {
+      "id": "publication-9",
+      "year": "2020",
+      "title": "Memory and mutualism in species sustainability: a time-fractional Lotka-Volterra model with harvesting",
+      "authors": "MM Amirian, I Towers, Z Jovanoski, AJ Irwin",
+      "venue": "Heliyon",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://doi.org/10.1016/j.heliyon.2020.e04816",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1016/j.heliyon.2020.e04816"
+        }
+      ]
+    },
+    {
+      "id": "publication-10",
+      "year": "2020",
+      "title": "A new approach to solving multiorder time-fractional advection-diffusion-reaction equations using BEM and Chebyshev matrix",
+      "authors": "M Khalighi, MM Amirian, A Malek",
+      "venue": "Mathematical Methods in the Applied Sciences",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://doi.org/10.1002/mma.6352",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1002/mma.6352"
+        }
+      ]
+    },
+    {
+      "id": "publication-11",
+      "year": "2019",
+      "title": "The concepts and applications of fractional order differential calculus in modeling of viscoelastic systems: a primer",
+      "authors": "MM Amirian, Y Jamali",
+      "venue": "Critical Reviews in Biomedical Engineering",
+      "status": "published",
+      "selected": false,
+      "primaryUrl": "https://www.dl.begellhouse.com/journals/4b27cbfc562e21b8,3a2b605d4aa0d999,4512354003dbcb22.html",
+      "links": [
+        {
+          "label": "Article",
+          "url": "https://www.dl.begellhouse.com/journals/4b27cbfc562e21b8,3a2b605d4aa0d999,4512354003dbcb22.html"
+        }
+      ]
+    },
+    {
+      "id": "publication-12",
+      "year": "2026",
+      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean Δ pCO₂ Using Tabular Diffusion Models",
+      "authors": "G Accarino, MM Amirian, TH Heimdal, AR Fay, GA McKinley, V Acquaviva",
+      "venue": "RPS Workshop, NeurIPS 2026",
+      "status": "accepted",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-13",
+      "year": "2026",
+      "title": "Low proteomic investment in carbon fixation facilitates the success of Phaeocystis in the Labrador Sea",
+      "authors": "SB Pollara, ME Roberts, R Stevens-Green, J LaRoche, L Jabre, E Rowland, CE McBride, RE Sipler, S Clay, E Devred, MM Amirian, ZV Finkel, AJ Irwin, J Young, M Mars-Brisbin, EM Bertrand",
+      "venue": "The ISME Journal",
+      "status": "review",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-14",
+      "year": "2026",
+      "title": "NEPTUNE: An AI model for global ocean seasonal forecasting",
+      "authors": "D Donno, I Epicoco, M Cafaro, G Accarino,MM Amirian, V Acquaviva, P Nassisi, D Iovino, A Bracco, S Masina, P Gentine",
+      "venue": "Journal of Advances in Modeling Earth Systems",
+      "status": "review",
+      "selected": false,
+      "primaryUrl": "https://arxiv.org/abs/2609.08606",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2609.08606"
+        }
+      ]
+    },
+    {
+      "id": "publication-15",
+      "year": "2026",
+      "title": "Resolving satellite-in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic",
+      "authors": "K Kam, E Devred, S Clay, MM Amirian, D Atamanchuk, D.W.R Wallace",
+      "venue": "Remote Sensing",
+      "status": "review",
+      "selected": false,
+      "primaryUrl": "https://arxiv.org/abs/2604.08634",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2604.08634"
+        }
+      ]
+    },
+    {
+      "id": "picurve-paper",
+      "year": "2026",
+      "title": "piCurve: an R package for photosynthesis–irradiance modeling, surface irradiance estimation, and phytoplankton absorption",
+      "authors": "MM Amirian, AJ Irwin",
+      "venue": "Methods in Ecology and Evolution",
+      "status": "review",
+      "selected": true,
+      "primaryUrl": "https://arxiv.org/abs/2508.14321",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/Mohammad-Amirian/piCurve"
+        },
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2508.14321"
+        }
+      ]
+    },
+    {
+      "id": "pidata-paper",
+      "year": "2026",
+      "title": "A Compilation of Marine Photosynthesis–Irradiance Data from ¹⁴C Incubation Experiments",
+      "authors": "MM Amirian, ZV Finkel, E Devred, AJ Irwin",
+      "venue": "Earth System Science Data",
+      "status": "review",
+      "selected": true,
+      "primaryUrl": "https://doi.org/10.5281/zenodo.21908199",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.5281/zenodo.21908199"
+        }
+      ]
+    },
+    {
+      "id": "publication-18",
+      "year": "2018",
+      "title": "The Role of Topology in the Synchronization of Neuronal Networks Based on the Hodgkin-Huxley Model",
+      "authors": "A Mazarei, MM Amirian, G Riazi, Y Jamali",
+      "venue": "arXiv",
+      "status": "preprint",
+      "selected": false,
+      "primaryUrl": "https://arxiv.org/abs/1812.02297",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/1812.02297"
+        }
+      ]
+    },
+    {
+      "id": "publication-19",
+      "year": "2026",
+      "title": "Ecophysiological modeling of marine photosynthesis: a hybrid model",
+      "authors": "MM Amirian, P Fahimi, ZV Finkel, E Devred, S Clay, AJ Irwin",
+      "venue": "",
+      "status": "preparation",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-20",
+      "year": "2026",
+      "title": "Latitudinal, Seasonal, and Diel Variation in Marine Phytoplankton Photophysiology and Its Effects on Net Primary Production",
+      "authors": "MM Amirian, E Devred, V Acquaviva, ZV Finkel, AJ Irwin",
+      "venue": "",
+      "status": "preparation",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    }
+  ],
+  "gallery": [
+    {
+      "id": "leap-2026",
+      "title": "LEAP 6th Annual Meeting",
+      "date": "October 5–8, 2026",
+      "datetime": "2026-10-05",
+      "location": "Learning the Earth with Artificial Intelligence & Physics",
+      "description": "Hosted by LEAP, an NSF Science and Technology Center based at Columbia University, bringing together the Earth science, artificial intelligence, and physics communities.",
+      "url": "https://leap.columbia.edu",
+      "link_label": "About LEAP",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 1536,
+          "alt": "LEAP annual meeting participants gathered on outdoor steps beneath autumn trees.",
+          "src": "/assets/gallery/leap-2026.webp"
+        }
+      ]
+    },
+    {
+      "id": "cbiomes-2026",
+      "title": "2026 CBIOMES Annual Meeting",
+      "date": "June 15–17, 2026",
+      "datetime": "2026-06-15",
+      "location": "Simons Foundation · New York City",
+      "description": "An opportunity to consolidate ideas and collaborations as CBIOMES approaches its tenth and final year.",
+      "url": "https://cbiomes.org/2026/07/08/cbiomes-26/",
+      "link_label": "Meeting highlights",
+      "credit": "Simons Foundation",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 1152,
+          "alt": "Participants in the 2026 CBIOMES Annual Meeting gathered in an auditorium.",
+          "src": "/assets/gallery/cbiomes-2026.webp"
+        }
+      ]
+    },
+    {
+      "id": "time-series-2026",
+      "title": "Machine Learning for Time-Series Data",
+      "date": "April 2026",
+      "datetime": "2026-04",
+      "location": "CBIOMES workshop · New York City & online",
+      "description": "As machine learning plays a growing role in ocean science, CBIOMES researchers met to advance shared tools for modelling the ocean’s dynamic biological systems.",
+      "url": "https://cbiomes.org/2026/05/13/time-series-modeling-for-a-dynamic-ocean/",
+      "link_label": "About the workshop",
+      "credit": "H. Hill",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 1269,
+          "alt": "CBIOMES time-series workshop participants gathered in front of a lecture-room blackboard.",
+          "src": "/assets/gallery/time-series-2026.webp"
+        }
+      ]
+    },
+    {
+      "id": "split-2025",
+      "title": "Modelling Primary Production",
+      "date": "October 27–31, 2025",
+      "datetime": "2025-10-27",
+      "location": "Faculty of Science · Split, Croatia",
+      "description": "A workshop on modelling primary production, including my piCurve tutorial and a research talk on phytoplankton photoinhibition.",
+      "url": "https://www.photoclim.org/workshops/modelling-primary-production/",
+      "link_label": "About the workshop",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 878,
+          "alt": "Modelling Primary Production workshop participants on a terrace in Split.",
+          "src": "/assets/gallery/split-2025.webp"
+        }
+      ]
+    },
+    {
+      "id": "phd-defence-2025",
+      "title": "PhD defence",
+      "date": "July 24, 2025",
+      "datetime": "2025-07-24",
+      "location": "Dalhousie University · Halifax, Canada",
+      "description": "Defending my PhD in Statistics: Modelling Phytoplankton Growth Rates under Changing Resource Conditions.",
+      "url": "https://dalspace.library.dal.ca/items/a3c7c412-b987-4cfa-bf1e-5073cf0f9829",
+      "link_label": "Read the thesis",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 1214,
+          "alt": "Group photograph at my PhD defence, with in-person and remote participants.",
+          "src": "/assets/gallery/phd-defence-group.webp"
+        },
+        {
+          "width": 1332,
+          "height": 1198,
+          "alt": "Presenting my thesis on phytoplankton growth rates at my PhD defence.",
+          "src": "/assets/gallery/phd-defence-presentation.webp"
+        }
+      ]
+    },
+    {
+      "id": "cbiomes-2025",
+      "title": "2025 CBIOMES Annual Meeting",
+      "date": "June 16–18, 2025",
+      "datetime": "2025-06-16",
+      "location": "Simons Foundation · New York City",
+      "description": "Nearly sixty collaborators came together for three days of face-to-face connection, scientific exchange, and collaborative momentum.",
+      "url": "https://cbiomes.org/2025/08/26/cbiomes-25/",
+      "link_label": "Meeting highlights",
+      "credit": "Simons Foundation",
+      "photos": [
+        {
+          "width": 2048,
+          "height": 1362,
+          "alt": "Collaborators gathered at the Simons Foundation for the 2025 CBIOMES Annual Meeting.",
+          "src": "/assets/gallery/cbiomes-2025.webp"
+        }
+      ]
+    },
+    {
+      "id": "primary-production-2025",
+      "title": "CBIOMES Workshop on Modeling Primary Production",
+      "date": "March 4–6, 2025",
+      "datetime": "2025-03-04",
+      "location": "Simons Foundation · New York City",
+      "description": "A three-day workshop on modelling primary production, bringing researchers together to discuss how to represent and understand phytoplankton productivity.",
+      "url": "https://cbiomes.org/2025/03/20/a-productive-meeting/",
+      "link_label": "About the workshop",
+      "credit": "H. Hill",
+      "photos": [
+        {
+          "width": 1580,
+          "height": 922,
+          "alt": "Participants in the CBIOMES primary production workshop gathered in a classroom.",
+          "src": "/assets/gallery/primary-production-2025.webp"
+        }
+      ]
+    }
+  ],
+  "heroImage": "/assets/ocean-concept.webp",
+  "cvUrl": "/assets/Mohammad-Amirian-CV.pdf",
+  "heroAlt": "Conceptual illustration of turquoise phytoplankton-like swirls in deep blue ocean water"
+}
