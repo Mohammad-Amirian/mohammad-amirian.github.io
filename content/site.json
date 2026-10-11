@@ -1297,8 +1297,8 @@
     {
       "id": "text-216",
       "section": "teaching",
-      "label": "Co-supervisor, master’s student",
-      "value": "Co-supervisor, master’s student"
+      "label": "Co-mentor, master’s student",
+      "value": "Co-mentor, master’s student"
     },
     {
       "id": "text-217",
@@ -1479,6 +1479,30 @@
       "section": "Contact",
       "label": "Back to top",
       "value": "Back to top"
+    },
+    {
+      "id": "text-247",
+      "section": "Outreach",
+      "label": "Media coverage · Scienmag · 27 August 2025",
+      "value": "Media coverage · Scienmag · 27 August 2025"
+    },
+    {
+      "id": "text-248",
+      "section": "Outreach",
+      "label": "New Insights into Phytoplankton Photoinhibition Dynamics",
+      "value": "New Insights into Phytoplankton Photoinhibition Dynamics"
+    },
+    {
+      "id": "text-249",
+      "section": "Outreach",
+      "label": "Scienmag coverage of our paper on modelling phytoplankton photoinhibition.",
+      "value": "Scienmag coverage of our paper on modelling phytoplankton photoinhibition."
+    },
+    {
+      "id": "text-250",
+      "section": "Outreach",
+      "label": "Read the coverage",
+      "value": "Read the coverage"
     }
   ],
   "links": [
@@ -1601,6 +1625,12 @@
       "section": "Contact",
       "label": "LinkedIn",
       "url": "https://www.linkedin.com/in/mohammad-m-amirian-281561aa/"
+    },
+    {
+      "id": "link-21",
+      "section": "Outreach",
+      "label": "Read the Scienmag coverage",
+      "url": "https://scienmag.com/new-insights-into-phytoplankton-photoinhibition-dynamics/"
     }
   ],
   "publications": [
