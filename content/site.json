@@ -686,7 +686,7 @@
       "id": "text-114",
       "section": "cv",
       "label": "Environmental Management; Ecological Informatics; Qualitative Theory of Dynamical Sys",
-      "value": "Environmental Management; Ecological Informatics; Qualitative Theory of Dynamical Systems; Scientific Reports."
+      "value": "Environmental Management; Ecological Informatics; Qualitative Theory of Dynamical Systems; Scientific Reports; Biogeosciences."
     },
     {
       "id": "text-115",
@@ -1678,6 +1678,118 @@
       ]
     },
     {
+      "id": "publication-12",
+      "year": "2026",
+      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean Δ pCO₂ Using Tabular Diffusion Models",
+      "authors": "G Accarino, MM Amirian, TH Heimdal, AR Fay, GA McKinley, V Acquaviva",
+      "venue": "RPS Workshop, NeurIPS 2026",
+      "status": "accepted",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-13",
+      "year": "2026",
+      "title": "Low proteomic investment in carbon fixation facilitates the success of Phaeocystis in the Labrador Sea",
+      "authors": "SB Pollara, ME Roberts, R Stevens-Green, J LaRoche, L Jabre, E Rowland, CE McBride, RE Sipler, S Clay, E Devred, MM Amirian, ZV Finkel, AJ Irwin, J Young, M Mars-Brisbin, EM Bertrand",
+      "venue": "The ISME Journal",
+      "status": "review",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-14",
+      "year": "2026",
+      "title": "NEPTUNE: An AI model for global ocean seasonal forecasting",
+      "authors": "D Donno, I Epicoco, M Cafaro, G Accarino,MM Amirian, V Acquaviva, P Nassisi, D Iovino, A Bracco, S Masina, P Gentine",
+      "venue": "Nature Computational Science",
+      "status": "review",
+      "selected": false,
+      "primaryUrl": "https://arxiv.org/abs/2609.08606",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2609.08606"
+        }
+      ]
+    },
+    {
+      "id": "publication-15",
+      "year": "2026",
+      "title": "Resolving satellite-in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic",
+      "authors": "K Kam, E Devred, S Clay, MM Amirian, D Atamanchuk, D.W.R Wallace",
+      "venue": "Remote Sensing",
+      "status": "accepted",
+      "selected": false,
+      "primaryUrl": "https://arxiv.org/abs/2604.08634",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2604.08634"
+        }
+      ]
+    },
+    {
+      "id": "picurve-paper",
+      "year": "2026",
+      "title": "piCurve: an R package for photosynthesis–irradiance modeling, surface irradiance estimation, and phytoplankton absorption",
+      "authors": "MM Amirian, AJ Irwin",
+      "venue": "Methods in Ecology and Evolution",
+      "status": "review",
+      "selected": true,
+      "primaryUrl": "https://arxiv.org/abs/2508.14321",
+      "links": [
+        {
+          "label": "Code",
+          "url": "https://github.com/Mohammad-Amirian/piCurve"
+        },
+        {
+          "label": "Preprint",
+          "url": "https://arxiv.org/abs/2508.14321"
+        }
+      ]
+    },
+    {
+      "id": "pidata-paper",
+      "year": "2026",
+      "title": "A Compilation of Marine Photosynthesis–Irradiance Data from ¹⁴C Incubation Experiments",
+      "authors": "MM Amirian, ZV Finkel, E Devred, AJ Irwin",
+      "venue": "Earth System Science Data",
+      "status": "review",
+      "selected": true,
+      "primaryUrl": "https://doi.org/10.5281/zenodo.21908199",
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.5281/zenodo.21908199"
+        }
+      ]
+    },
+    {
+      "id": "publication-19",
+      "year": "2026",
+      "title": "Ecophysiological modeling of marine photosynthesis: a hybrid model",
+      "authors": "MM Amirian, P Fahimi, ZV Finkel, E Devred, S Clay, AJ Irwin",
+      "venue": "",
+      "status": "preparation",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
+      "id": "publication-20",
+      "year": "2026",
+      "title": "Latitudinal, Seasonal, and Diel Variation in Marine Phytoplankton Photophysiology and Its Effects on Net Primary Production",
+      "authors": "MM Amirian, E Devred, V Acquaviva, ZV Finkel, AJ Irwin",
+      "venue": "",
+      "status": "preparation",
+      "selected": false,
+      "primaryUrl": "",
+      "links": []
+    },
+    {
       "id": "publication-4",
       "year": "2025",
       "title": "Nonphotochemical quenching and beyond: multi-layered photoprotection shapes light-stress tolerance across seasonal niches in Arctic diatoms",
@@ -1806,96 +1918,6 @@
       ]
     },
     {
-      "id": "publication-12",
-      "year": "2026",
-      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean Δ pCO₂ Using Tabular Diffusion Models",
-      "authors": "G Accarino, MM Amirian, TH Heimdal, AR Fay, GA McKinley, V Acquaviva",
-      "venue": "RPS Workshop, NeurIPS 2026",
-      "status": "accepted",
-      "selected": false,
-      "primaryUrl": "",
-      "links": []
-    },
-    {
-      "id": "publication-13",
-      "year": "2026",
-      "title": "Low proteomic investment in carbon fixation facilitates the success of Phaeocystis in the Labrador Sea",
-      "authors": "SB Pollara, ME Roberts, R Stevens-Green, J LaRoche, L Jabre, E Rowland, CE McBride, RE Sipler, S Clay, E Devred, MM Amirian, ZV Finkel, AJ Irwin, J Young, M Mars-Brisbin, EM Bertrand",
-      "venue": "The ISME Journal",
-      "status": "review",
-      "selected": false,
-      "primaryUrl": "",
-      "links": []
-    },
-    {
-      "id": "publication-14",
-      "year": "2026",
-      "title": "NEPTUNE: An AI model for global ocean seasonal forecasting",
-      "authors": "D Donno, I Epicoco, M Cafaro, G Accarino,MM Amirian, V Acquaviva, P Nassisi, D Iovino, A Bracco, S Masina, P Gentine",
-      "venue": "Nature Computational Science",
-      "status": "review",
-      "selected": false,
-      "primaryUrl": "https://arxiv.org/abs/2609.08606",
-      "links": [
-        {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2609.08606"
-        }
-      ]
-    },
-    {
-      "id": "publication-15",
-      "year": "2026",
-      "title": "Resolving satellite-in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic",
-      "authors": "K Kam, E Devred, S Clay, MM Amirian, D Atamanchuk, D.W.R Wallace",
-      "venue": "Remote Sensing",
-      "status": "accepted",
-      "selected": false,
-      "primaryUrl": "https://arxiv.org/abs/2604.08634",
-      "links": [
-        {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2604.08634"
-        }
-      ]
-    },
-    {
-      "id": "picurve-paper",
-      "year": "2026",
-      "title": "piCurve: an R package for photosynthesis–irradiance modeling, surface irradiance estimation, and phytoplankton absorption",
-      "authors": "MM Amirian, AJ Irwin",
-      "venue": "Methods in Ecology and Evolution",
-      "status": "review",
-      "selected": true,
-      "primaryUrl": "https://arxiv.org/abs/2508.14321",
-      "links": [
-        {
-          "label": "Code",
-          "url": "https://github.com/Mohammad-Amirian/piCurve"
-        },
-        {
-          "label": "Preprint",
-          "url": "https://arxiv.org/abs/2508.14321"
-        }
-      ]
-    },
-    {
-      "id": "pidata-paper",
-      "year": "2026",
-      "title": "A Compilation of Marine Photosynthesis–Irradiance Data from ¹⁴C Incubation Experiments",
-      "authors": "MM Amirian, ZV Finkel, E Devred, AJ Irwin",
-      "venue": "Earth System Science Data",
-      "status": "review",
-      "selected": true,
-      "primaryUrl": "https://doi.org/10.5281/zenodo.21908199",
-      "links": [
-        {
-          "label": "DOI",
-          "url": "https://doi.org/10.5281/zenodo.21908199"
-        }
-      ]
-    },
-    {
       "id": "publication-18",
       "year": "2018",
       "title": "The Role of Topology in the Synchronization of Neuronal Networks Based on the Hodgkin-Huxley Model",
@@ -1910,28 +1932,6 @@
           "url": "https://arxiv.org/abs/1812.02297"
         }
       ]
-    },
-    {
-      "id": "publication-19",
-      "year": "2026",
-      "title": "Ecophysiological modeling of marine photosynthesis: a hybrid model",
-      "authors": "MM Amirian, P Fahimi, ZV Finkel, E Devred, S Clay, AJ Irwin",
-      "venue": "",
-      "status": "preparation",
-      "selected": false,
-      "primaryUrl": "",
-      "links": []
-    },
-    {
-      "id": "publication-20",
-      "year": "2026",
-      "title": "Latitudinal, Seasonal, and Diel Variation in Marine Phytoplankton Photophysiology and Its Effects on Net Primary Production",
-      "authors": "MM Amirian, E Devred, V Acquaviva, ZV Finkel, AJ Irwin",
-      "venue": "",
-      "status": "preparation",
-      "selected": false,
-      "primaryUrl": "",
-      "links": []
     }
   ],
   "gallery": [

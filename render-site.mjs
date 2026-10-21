@@ -4,7 +4,7 @@ export function renderSite(data, template) {
  const tokens={metaTitle:escapeHtml(data.meta.title),metaDescription:escapeHtml(data.meta.description),heroImage:escapeHtml(data.heroImage),heroAlt:escapeHtml(data.heroAlt),cvUrl:escapeHtml(data.cvUrl),publicationCount:String(data.publications.length)};
  for(const item of data.texts)tokens[item.id]=escapeHtml(item.value);
  for(const item of data.links)tokens[item.id]=escapeHtml(item.url);
- tokens.publications=data.publications.map(p=>{
+ tokens.publications=[...data.publications].sort((a,b)=>Number(b.year)-Number(a.year)).map(p=>{
   const status=p.status==='accepted'?'published':p.status;
   const badge={published:'Published',accepted:'Accepted',review:'Under review',preprint:'Preprint',preparation:'In preparation'}[p.status];
   const authors=escapeHtml(p.authors).replace(/M\. M\. Amirian|Mohammad M\. Amirian/g,m=>`<strong>${m}</strong>`);
