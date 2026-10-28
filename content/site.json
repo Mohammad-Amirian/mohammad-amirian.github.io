@@ -1718,13 +1718,17 @@
     {
       "id": "publication-15",
       "year": "2026",
-      "title": "Resolving satellite-in situ mismatches in Net Primary Production using high-frequency in situ bio-optical observations in the subpolar Northwest Atlantic",
-      "authors": "K Kam, E Devred, S Clay, MM Amirian, D Atamanchuk, D.W.R Wallace",
-      "venue": "Remote Sensing",
-      "status": "accepted",
+      "title": "Resolving Satellite and In Situ Mismatches in Net Primary Production Using High-Frequency In Situ Bio-Optical Observations in the Subpolar Northwest Atlantic",
+      "authors": "K Kam, E Devred, S Clay, MM Amirian, AJ Irwin, D Atamanchuk, U Send, DWR Wallace",
+      "venue": "Remote Sensing, 18(21), 3681",
+      "status": "published",
       "selected": false,
-      "primaryUrl": "https://arxiv.org/abs/2604.08634",
+      "primaryUrl": "https://doi.org/10.3390/rs18213681",
       "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.3390/rs18213681"
+        },
         {
           "label": "Preprint",
           "url": "https://arxiv.org/abs/2604.08634"
