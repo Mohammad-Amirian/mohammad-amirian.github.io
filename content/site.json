@@ -1853,6 +1853,10 @@
           "url": "https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science"
         },
         {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/PI_curve"
+        },
+        {
           "label": "CBIOMES",
           "url": "https://cbiomes.org/2025/09/17/new-model-sheds-light-on-how-too-much-sunlight-limits-ocean-productivity/",
           "group": "News & Views"
@@ -1860,10 +1864,6 @@
         {
           "label": "Scienmag",
           "url": "https://scienmag.com/new-insights-into-phytoplankton-photoinhibition-dynamics/"
-        },
-        {
-          "label": "Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/PI_curve"
         }
       ]
     },
