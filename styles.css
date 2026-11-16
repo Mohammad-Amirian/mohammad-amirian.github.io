@@ -68,4 +68,6 @@ header{height:88px;background:rgba(255,255,255,.97);border-bottom:1px solid var(
  .photo-open{opacity:1}
 }
 
-.pub-links a:is([href^="https://communities.springernature.com/"],[href^="https://cbiomes.org/"],[href^="https://scienmag.com/"],[href^="https://news.mit.edu/"],[href="https://www.nature.com/articles/s41558-026-02590-4"]){color:#754282}
+.pub-links a:is([href^="https://communities.springernature.com/"],[href^="https://cbiomes.org/"],[href^="https://scienmag.com/"],[href^="https://news.mit.edu/"],[href="https://www.nature.com/articles/s41558-026-02590-4"],[href="https://en.wikipedia.org/wiki/PI_curve"]){color:#754282}
+
+.pub-links > span{font-size:.78rem;color:#754282}
