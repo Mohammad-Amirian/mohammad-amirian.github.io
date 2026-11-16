@@ -1680,13 +1680,22 @@
     {
       "id": "publication-12",
       "year": "2026",
-      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean Δ pCO₂ Using Tabular Diffusion Models",
+      "title": "Learning Calibrated and Samplable Predictive Distributions of Surface-Ocean ΔpCO₂ Using Tabular Diffusion Models",
       "authors": "G Accarino, MM Amirian, TH Heimdal, AR Fay, GA McKinley, V Acquaviva",
-      "venue": "RPS Workshop, NeurIPS 2026",
+      "venue": "Representations for the Physical Sciences Workshop at NeurIPS 2026",
       "status": "accepted",
       "selected": false,
-      "primaryUrl": "",
-      "links": []
+      "primaryUrl": "https://openreview.net/pdf?id=dpSnxP8j9Y",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=dpSnxP8j9Y"
+        },
+        {
+          "label": "OpenReview",
+          "url": "https://openreview.net/forum?id=dpSnxP8j9Y"
+        }
+      ]
     },
     {
       "id": "publication-13",
