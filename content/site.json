@@ -1831,6 +1831,18 @@
         {
           "label": "Article",
           "url": "https://www.nature.com/articles/s43247-025-02686-3"
+        },
+        {
+          "label": "Behind the Paper",
+          "url": "https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science"
+        },
+        {
+          "label": "CBIOMES",
+          "url": "https://cbiomes.org/2025/09/17/new-model-sheds-light-on-how-too-much-sunlight-limits-ocean-productivity/"
+        },
+        {
+          "label": "Scienmag",
+          "url": "https://scienmag.com/new-insights-into-phytoplankton-photoinhibition-dynamics/"
         }
       ]
     },
