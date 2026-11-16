@@ -1845,16 +1845,25 @@
           "url": "https://www.nature.com/articles/s43247-025-02686-3"
         },
         {
+          "label": "Supplement",
+          "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-025-02686-3/MediaObjects/43247_2025_2686_MOESM2_ESM.pdf"
+        },
+        {
           "label": "Behind the Paper",
           "url": "https://communities.springernature.com/posts/a-simple-equation-for-a-long-standing-challenge-in-ocean-science"
         },
         {
           "label": "CBIOMES",
-          "url": "https://cbiomes.org/2025/09/17/new-model-sheds-light-on-how-too-much-sunlight-limits-ocean-productivity/"
+          "url": "https://cbiomes.org/2025/09/17/new-model-sheds-light-on-how-too-much-sunlight-limits-ocean-productivity/",
+          "group": "News & Views"
         },
         {
           "label": "Scienmag",
           "url": "https://scienmag.com/new-insights-into-phytoplankton-photoinhibition-dynamics/"
+        },
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/PI_curve"
         }
       ]
     },
