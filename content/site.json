@@ -1656,7 +1656,7 @@
       "primaryUrl": "https://doi.org/10.1016/j.isci.2026.116849",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.1016/j.isci.2026.116849"
         }
       ]
@@ -1672,7 +1672,7 @@
       "primaryUrl": "https://doi.org/10.1038/s41558-026-02598-w",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.1038/s41558-026-02598-w"
         }
       ]
@@ -1735,7 +1735,7 @@
       "primaryUrl": "https://doi.org/10.3390/rs18213681",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.3390/rs18213681"
         },
         {
@@ -1775,7 +1775,7 @@
       "primaryUrl": "https://doi.org/10.5281/zenodo.21908199",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.5281/zenodo.21908199"
         }
       ]
@@ -1893,7 +1893,7 @@
       "primaryUrl": "https://doi.org/10.1016/j.heliyon.2020.e04816",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.1016/j.heliyon.2020.e04816"
         }
       ]
@@ -1909,7 +1909,7 @@
       "primaryUrl": "https://doi.org/10.1002/mma.6352",
       "links": [
         {
-          "label": "DOI",
+          "label": "Article",
           "url": "https://doi.org/10.1002/mma.6352"
         }
       ]
